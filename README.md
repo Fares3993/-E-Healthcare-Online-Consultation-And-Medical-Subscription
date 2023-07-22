@@ -9,25 +9,23 @@ In the E-Healthcare-Online-Consultation-And-Medical-Subscription system, the use
   <li><b>Register: </b>Enables a new user to create an account in the system. </li>
   <li><b>Chat: </b>Allows users to communicate with each other within the platform. </li>
 </ul>
-### Doctor Actor (inherits from Person):
 
-View Requests: Doctors can see consultation requests from patients seeking medical advice.
-Send Subscriptions: Doctors can send medical subscriptions or treatment plans to patients.
+### Doctor Actor (inherits from Person):
+<ul>
+  <li>View Requests: <b></b>Doctors can see consultation requests from patients seeking medical advice. </li>
+  <li> <b>Send Subscriptions:</b> Doctors can send medical subscriptions or treatment plans to patients. </li>
+</ul>
+  
+
+
 ### Patient Actor (inherits from Person):
 <ul>
    <li><b>Subscribe: </b>Patients can subscribe to medical services or plans offered by doctors. </li>
-  <li><b> </b> </li>
-  <li><b> </b> </li>
-  <li><b> </b> </li>
-  <li><b> </b> </li>
-  <li><b> </b> </li>
-  <li><b> </b> </li>
-  <li><b> </b> </li>
+  <li><b>Send Image: </b>Patients can upload images or medical documents for doctors to review. </li>
+  <li><b>See Available Doctors: </b>Patients can view a list of available doctors for online consultation. </li>
+  <li><b>Pay: </b>Patients can make payments for the subscribed medical services. </li>
+  <li><b>Send Request: </b>Patients can send consultation requests to specific doctors. </li>
 </ul>
 
-Send Image: Patients can upload images or medical documents for doctors to review.
-See Available Doctors: Patients can view a list of available doctors for online consultation.
-Pay: Patients can make payments for the subscribed medical services.
-Send Request: Patients can send consultation requests to specific doctors.
 <hr>
 The use case diagram illustrates the primary functionalities of the E-Healthcare-Online-Consultation-And-Medical-Subscription system, showcasing the interactions between different actors and their corresponding use cases. It provides an overview of the key features and interactions within the system, facilitating a better understanding of the system's behavior and user roles.
