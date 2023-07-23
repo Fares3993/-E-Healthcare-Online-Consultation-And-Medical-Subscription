@@ -29,3 +29,10 @@ In the E-Healthcare-Online-Consultation-And-Medical-Subscription system, the use
 
 <hr>
 The use case diagram illustrates the primary functionalities of the E-Healthcare-Online-Consultation-And-Medical-Subscription system, showcasing the interactions between different actors and their corresponding use cases. It provides an overview of the key features and interactions within the system, facilitating a better understanding of the system's behavior and user roles.
+
+### created by a team of 3 students: 
+* Fares Ahmed
+* Bahaa Khaled
+* Fatima Ashraf
+
+
